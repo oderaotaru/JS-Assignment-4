@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    height: 100%;
+    background-color: cornflowerblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h3 {
+    font-family: 'Poppins', sans-serif;
+    color: rgb(233, 211, 184);
+}
+p {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 20px;
+}
+.set {
+    margin: 0;
+    height: 100%;
+    background-color: rgb(100, 221, 237);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#top {
+    font-family: 'Poppins', sans-serif;
+    color: rgb(195, 115, 17);
+}
+#mid {
+    font-family: 'Poppins', sans-serif;
+    color: rgb(195, 46, 17);
+    font-size: 20px;
+}
